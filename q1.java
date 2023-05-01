@@ -21,8 +21,10 @@ public class q1 {
 
 	public static void main(String[] args)
 	{
-		printAsterisks(30);
-		printAsterisks(5);
+		System.out.printl("Now printing 7 asterisks:);
+		printAsterisks(7);
+		System.out.printl("Now printing 9 asterisks:);
+		printAsterisks(9);
 	}
 
 }
